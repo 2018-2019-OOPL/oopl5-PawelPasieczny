@@ -1,6 +1,7 @@
 package pl.edu.ur.oopl5.stack;
 
 import java.util.EmptyStackException;   
+import java.util.Scanner;
 
 /**
  */
